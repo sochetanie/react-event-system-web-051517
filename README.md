@@ -42,6 +42,7 @@ As you can see, we're passing a function _reference_, and not executing the `tic
 
 There are a lot of event handlers we can add to an element, for example `onKeyUp`, `onMouseDown`, `onFocus`, `onSubmit`, and many more. Check out the [complete list of supported events](https://facebook.github.io/react/docs/events.html#supported-events) to see what else you can play around with!
 
+
 ## Resources
 - [React Synthetic Events](https://facebook.github.io/react/docs/events.html)
 - [Supported-events](https://facebook.github.io/react/docs/events.html#supported-events)
